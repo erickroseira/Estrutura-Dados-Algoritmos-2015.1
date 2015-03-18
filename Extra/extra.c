@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+/* Atividade Extra sobre determinar o maior numero entre 1,2,3 ou 4 opções de números, contendo uma função de teste para o código escrito e a validade
+do mesmo. */
+
 int dois (int a, int b){
 	
 	if(a>b){
