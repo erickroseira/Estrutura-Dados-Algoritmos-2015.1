@@ -1,0 +1,1 @@
+Lista abordando conceitos iniciais da linguagem C.
