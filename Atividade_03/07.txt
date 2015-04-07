@@ -1,0 +1,1 @@
+7. Inicializar o ponteiro por meio do seguinte codigo int j, *pj = NULL

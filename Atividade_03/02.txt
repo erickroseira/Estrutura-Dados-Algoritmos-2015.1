@@ -1,0 +1,1 @@
+2. Letra b. int *ptr.

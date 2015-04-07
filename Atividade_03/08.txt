@@ -1,0 +1,13 @@
+8. int main(int argc, char *argv[]) {
+	
+   int x =10;
+   int *px = x;
+     
+   px = &x; 
+   
+   printf("%d",*px/5);
+   
+	
+	return 0;
+	
+}

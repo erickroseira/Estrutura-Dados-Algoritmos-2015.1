@@ -1,0 +1,2 @@
+15) a) 10, b) 5.9, c) FFA0, )d FFB4, e) 10, f) 5,9, g) 10, h) FFB4, i) FFA0, j) 0, K) 9, l) seg fault, m) FFA6
+n) FFA0, o) seg fault, p) 0, q) FFD4

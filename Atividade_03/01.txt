@@ -1,0 +1,1 @@
+1. Um ponteiro nada mais é do que um tipo de variável especial que armazena outras variáveis. Sua sintaxe é <tipo> *<nome>, onde <tipo> é qualquer tipo válido em C. 

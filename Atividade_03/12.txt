@@ -1,0 +1,1 @@
+12. Letra e. Pois o pti é igual ao valor de endereço de i

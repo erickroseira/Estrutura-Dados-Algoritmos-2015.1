@@ -1,0 +1,2 @@
+6. Está errada, pois para ler uma variavel deve-se coocar o &, indicando que o dado digitado será armazenado no endereço de memoria
+da variavel em questao.

@@ -1,0 +1,1 @@
+Lista contendo 15 questões sobre definição, conceitos iniciais de ponteiros e sua aritmética.
