@@ -1,0 +1,1 @@
+Lista contendo 10 questões sobre ponteiros relacionando-os com matrizes e vetores.

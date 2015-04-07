@@ -1,0 +1,1 @@
+4) Seria 19 porque a última é ocupada pelo \o que indica o final de vetor de char

@@ -1,0 +1,1 @@
+6) Letra f. Porque caso *pj não "aponte" para uma variavel dará um erro.
