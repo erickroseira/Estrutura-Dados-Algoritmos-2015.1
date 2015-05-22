@@ -1,0 +1,2 @@
+Lista de exercícios abordando pilhas, primeiramente implementando-as com vetores e depois com listas.
+
