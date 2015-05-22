@@ -1,0 +1,3 @@
+Lista sobre listas encadeadas, lista duplamente encadeadas e listas circulares duplamente encadeadas.
+Em cada uma das abordagens foi implementado as operaçãoes básicas de criação, liberação da memoria,
+inserção, remoção e busca de elementos, e etc.
