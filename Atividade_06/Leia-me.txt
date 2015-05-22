@@ -1,0 +1,1 @@
+Lista sobre conceitos e manipulação de structs, utilizando TAD.
