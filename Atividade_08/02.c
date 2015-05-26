@@ -38,7 +38,7 @@ No* remove_inicio(Pilha *p, float v){
 }
 
 //função push
-void push (Pilha *parsfnm, float v){
+void push(Pilha *p, float v){
 	insere_inicio(p,v);
 }
 
