@@ -15,12 +15,12 @@ Calc* cria_calc(char* f){
 	return calculadora;
 }
 
-void operando (Calc* c, float v){
+void operando(Calc* c, float v){
 	push(c->p,v);							 //empilha o valor v passado para a função.
 	printf(c->f,v);
 }
 
-void operador (Calc* c, char op){
+void operador(Calc* c, char op){
 	float n1, n2, resultado;
 	if (vazia(c->p)){                         //caso a pilha esteja vazia é atribuido zero aos operandos.
 		n2 = 0.0;
@@ -42,8 +42,8 @@ void operador (Calc* c, char op){
 
 
 //libera a calculadora...free
-void libera_calc (Calc* c)
+void libera_calc(Calc* c)
 {
- libera(c->p);
- free(c);
+ libera(c->p);					//libera a pilha
+ free(c);						//libera a struct calculadora
 }
