@@ -22,7 +22,7 @@ Pilha* cria(void){
 No* insere_inicio(Pilha *p, float v){
 	No *no = (No*) malloc(sizeof(No));
 	if(no!=NULL){
-		no->prox = p;
+		no->prox = p->prim;
 		no->inf = v;
 	}
 	p->prim = no;
