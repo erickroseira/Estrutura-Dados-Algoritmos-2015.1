@@ -1,14 +1,5 @@
 #include "pilha.h"
 
-struct no {
-	float info;
-	struct no* prox;
-};
-
-struct pilha{
-	No* prim;
-};
-
 //criação da pilha
 Pilha* cria(void){
 	Pilha *pilha = (Pilha*) malloc(sizeof(Pilha));
