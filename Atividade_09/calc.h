@@ -1,4 +1,7 @@
-
+struct calc{
+	char f[21];
+	Pilha* p;
+};
 
 
 typedef struct calc Calc;

@@ -2,11 +2,6 @@
 #include "calc.h"
 
 
-struct calc{
-	char f[21];
-	Pilha* p;
-};
-
 
 Calc* cria_calc(char* f){
 	Calc* calculadora = (Calc*) malloc(sizeof(Calc));	//alocação dinamica da estrutra calculadora
