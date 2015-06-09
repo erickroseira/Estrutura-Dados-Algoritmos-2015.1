@@ -1,0 +1,1 @@
+Lista 10 abordando sobre o conceito de pilha, sua implementação e funções.
